@@ -34,6 +34,12 @@ export class Users extends Component {
         avatar_url: 'https://avatars.githubusercontent.com/u/2?v=4',
         html_url: 'https://github.com/defunkt',
       },
+      {
+        id: '6',
+        login: 'saibhreas',
+        avatar_url: 'https://avatars.githubusercontent.com/u/74072744?v=4',
+        html_url: 'https://github.com/saibhreas',
+      }
     ],
   };
 
