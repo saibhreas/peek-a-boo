@@ -1,5 +1,5 @@
 # Peek a Boo
-<img src= "./img/React-lite.png" alt = "React icons " height = "45"/> 
+<img src= "./public/logo192.png" alt = "React icons " height = "45"/> 
 Development site for Traversy Media project, coded in by Saibhreas
 
 
@@ -25,6 +25,10 @@ from the course description
   
 ## Description
 
+#### Part !
+A gihub finder
+
+
   Includes API's
 
     API Endpoints We Will Be Working With:
@@ -38,3 +42,7 @@ from the course description
       https://api.github.com/users/bradtraversy/repos
 
 ### Installation
+
+    npx create-react-app .
+
+    
