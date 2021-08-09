@@ -14,7 +14,7 @@ class UserItem extends Component {
   
   
   render() {
-    const {login, avatar_url, html_url}= this.props;
+    const {login, avatar_url, html_url}= this.props.user;
 
     return (
       <div className= "card text-center">
