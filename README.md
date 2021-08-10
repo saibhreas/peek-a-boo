@@ -44,5 +44,7 @@ A gihub finder
 ### Installation
 
     npx create-react-app .
+    npm i axios
+
 
     
